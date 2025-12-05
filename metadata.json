@@ -1,5 +1,5 @@
 {
-  "name": "Copy of FE Credit Loan Calculator",
-  "description": "Máy tính lãi suất vay tín chấp FE Credit theo dư nợ giảm dần.",
+  "name": "Máy tính tín chấp Finz",
+  "description": "Hỗ trợ sales tài chính ước tính lãi suất sơ bộ cho khách hàng",
   "requestFramePermissions": []
 }
